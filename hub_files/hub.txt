@@ -1,0 +1,5 @@
+hub HCF_ATAC_TrackHub
+shortLabel ATAC+RNA Hub
+longLabel Smoothed ATAC-seq and RNA-seq coverage tracks for human cardiac fibroblasts
+genomesFile https://raw.githubusercontent.com/jtravers4577/HCF_TrackHub/main/genomes.txt
+email Joshua.Travers@cuanschutz.edu

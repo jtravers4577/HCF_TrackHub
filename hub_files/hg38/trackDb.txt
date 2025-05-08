@@ -1,0 +1,138 @@
+############################################
+# F1 DMSO
+############################################
+track F1_DMSO_RNA
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F1_DMSO_RNAseq_smoothed.bw
+shortLabel F1 DMSO RNA
+longLabel RNA-seq signal (F1 DMSO)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 0,0,128
+
+track F1_DMSO_ATAC
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F1_DMSO_ATACseq_smoothed.bw
+shortLabel F1 DMSO ATAC
+longLabel ATAC-seq signal (F1 DMSO)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 255,0,0
+
+############################################
+# F1 ITF2357
+############################################
+track F1_ITF2357_RNA
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F1_ITF2357_RNAseq_smoothed.bw
+shortLabel F1 ITF2357 RNA
+longLabel RNA-seq signal (F1 ITF2357)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 0,0,128
+
+track F1_ITF2357_ATAC
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F1_ITF2357_ATACseq_smoothed.bw
+shortLabel F1 ITF2357 ATAC
+longLabel ATAC-seq signal (F1 ITF2357)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 255,0,0
+
+############################################
+# F3 DMSO
+############################################
+track F3_DMSO_RNA
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F3_DMSO_RNAseq_smoothed.bw
+shortLabel F3 DMSO RNA
+longLabel RNA-seq signal (F3 DMSO)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 0,0,128
+
+track F3_DMSO_ATAC
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F3_DMSO_ATACseq_smoothed.bw
+shortLabel F3 DMSO ATAC
+longLabel ATAC-seq signal (F3 DMSO)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 255,0,0
+
+############################################
+# F3 ITF2357
+############################################
+track F3_ITF2357_RNA
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F3_ITF2357_RNAseq_smoothed.bw
+shortLabel F3 ITF2357 RNA
+longLabel RNA-seq signal (F3 ITF2357)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 0,0,128
+
+track F3_ITF2357_ATAC
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F3_ITF2357_ATACseq_smoothed.bw
+shortLabel F3 ITF2357 ATAC
+longLabel ATAC-seq signal (F3 ITF2357)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 255,0,0
+
+############################################
+# F4 DMSO
+############################################
+track F4_DMSO_RNA
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F4_DMSO_RNAseq_smoothed.bw
+shortLabel F4 DMSO RNA
+longLabel RNA-seq signal (F4 DMSO)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 0,0,128
+
+track F4_DMSO_ATAC
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F4_DMSO_ATACseq_smoothed.bw
+shortLabel F4 DMSO ATAC
+longLabel ATAC-seq signal (F4 DMSO)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 255,0,0
+
+############################################
+# F4 ITF2357
+############################################
+track F4_ITF2357_RNA
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F4_ITF2357_RNAseq_smoothed.bw
+shortLabel F4 ITF2357 RNA
+longLabel RNA-seq signal (F4 ITF2357)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 0,0,128
+
+track F4_ITF2357_ATAC
+bigDataUrl https://storage.googleapis.com/rna_atac_bucket/smooth_tracks/F4_ITF2357_ATACseq_smoothed.bw
+shortLabel F4 ITF2357 ATAC
+longLabel ATAC-seq signal (F4 ITF2357)
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:40:11
+color 255,0,0
+
